@@ -5,7 +5,7 @@ Options
 =======
 
 * no_courses - "Ignore courses (why'd you do that?)", :default => true
-* :no_seminars - "Ignore seminars"
-* :no_labs - "Ignore labs"
-* :group - "If you want schedule only for a specific group", :type => String
-* :output - "Output file name", :default => "school.ics"
+* no_seminars - "Ignore seminars"
+* no_labs - "Ignore labs"
+* group - "If you want schedule only for a specific group", :type => String
+* output - "Output file name", :default => "school.ics"
